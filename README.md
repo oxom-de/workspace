@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+> It is a snapshot from May 2026 and does not reflect the current OXOM platform.
+> `create-oxom-app` and `@oxom/app` 0.1.x clone this snapshot and are deprecated. From 0.2 on they connect your own tools and databases to OXOM instead.
+
 # plattform
 
 An open-source, self-hostable workspace for creators — Drive, Notes, Docs, and Link in Bio, powered by Clerk, Supabase, and Liveblocks.
